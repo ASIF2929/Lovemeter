@@ -1,5 +1,5 @@
 
-const SHEET_URL = "https://script.google.com/macros/s/AKfycbxhbae5ZsU_BYTN4vy0icRJHTczqQmX_KD9fwtBonrjoH0-iCnJpnyC4DPTYO1UppGN/exec";
+const SHEET_URL = "https://script.google.com/macros/s/AKfycbzu6U0M_A9XHA7WFoeLaylgJrxfkYWqRqLt_CXWAEibetPgUIWcb1xZ3vKMGf9aDyLX/exec";
 
 function isValidName(name) {
   return /^[A-Za-z]+$/.test(name);
